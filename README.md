@@ -4,4 +4,4 @@
 
 ![Peru/Puerto Rico Download page](https://dengueforecasting.noaa.gov/)
 
-![Project File](http://localhost:8888/notebooks/Downloads/Virginia_Grams_Unit2_BuildProject2.ipynb)
+![Project File](Virginia_Grams_Unit2_BuildWeek2.ipynb)
